@@ -1,0 +1,969 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A list of all those that were committed to the Tower, New-gate, Gate-house, King's-Bench, Marshalsea, Fleet, since the discovery of the horrid conspiracy against the King also some of those in the messengers hands, and some discharged from the places abovesaid.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04060</idno>
+            <idno type="STC">Wing L2384</idno>
+            <idno type="STC">ESTC R220051</idno>
+            <idno type="EEBO-CITATION">53981678</idno>
+            <idno type="OCLC">ocm 53981678</idno>
+            <idno type="VID">180273</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04060)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180273)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2824:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A list of all those that were committed to the Tower, New-gate, Gate-house, King's-Bench, Marshalsea, Fleet, since the discovery of the horrid conspiracy against the King also some of those in the messengers hands, and some discharged from the places abovesaid.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year 1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>In four columns, within ornamental border.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prisoners --  England --  17th century --  Registers.</term>
+               <term>Lancashire Plot, 1689-1694.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Sources.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:180273:1"/>
+            <head>A LIST of all thoſe that were Committed to the <hi>Tower, New<g ref="char:EOLhyphen"/>gate, Gate-houſe, King</hi>'s-<hi>Bench, Marſhalſea, Fleet,</hi> ſince the Diſcovery of the Hor<g ref="char:EOLhyphen"/>rid Conſpiracy againſt the Life of the KING; alſo ſome of thoſe in the Meſſengers Hands, and ſome ſince Diſcharged from the Places aboveſaid.</head>
+            <list>
+               <head>In the Tower.</head>
+               <item>E. of <hi>Aylsbury,</hi>
+               </item>
+               <item>Lord <hi>Brudenal,</hi> ſince diſ<g ref="char:EOLhyphen"/>charged.</item>
+               <item>Mr. <hi>Bellaſis,</hi> ſince Diſcharged.</item>
+               <item>Lord <hi>Roſs,</hi>
+               </item>
+               <item>
+                  <hi>Bernard Howard,</hi> 
+                  <abbr>Eſq</abbr>
+               </item>
+               <item>Dr. <hi>Lake</hi> a Miniſter</item>
+               <item>Mr. <hi>Buckley,</hi>
+               </item>
+               <item>Col. <hi>Griſſin,</hi>
+               </item>
+               <item>Col. <hi>Tempeſt,</hi>
+               </item>
+               <item>Lord <hi>Forbus,</hi>
+               </item>
+               <item>Sir <hi>Phillip Conſtable,</hi>
+               </item>
+               <item>Mr. <hi>Brown,</hi>
+               </item>
+               <item>Sir <hi>John Fenwick,</hi>—13</item>
+            </list>
+            <list>
+               <head>In Newgate.</head>
+               <item>E. of <hi>Caſtlemain,</hi>
+               </item>
+               <item>
+                  <hi>William Walbanck,</hi>
+               </item>
+               <item>
+                  <hi>Tho. Bartram,</hi>
+               </item>
+               <item>
+                  <hi>Robert Ferguſon,</hi>
+               </item>
+               <item>
+                  <hi>Nicholas Nolun.</hi>
+               </item>
+               <item>
+                  <hi>Zachariah Sinke,</hi>
+               </item>
+               <item>
+                  <hi>George Higgens,</hi>
+               </item>
+               <item>
+                  <hi>John Seagravi</hi>
+               </item>
+               <item>
+                  <hi>Chri. Knig<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>y,</hi>
+               </item>
+               <item>Mr. <hi>Davis,</hi>
+               </item>
+               <item>Lieut. <hi>Sherburn.</hi>
+               </item>
+               <item>
+                  <hi>Davil Lothorpi,</hi>
+               </item>
+               <item>
+                  <hi>Edward White,</hi>
+               </item>
+               <item>
+                  <hi>William Maſon.</hi>
+               </item>
+               <item>
+                  <hi>John Girling,</hi>
+               </item>
+               <item>
+                  <hi>Bevill Higgins,</hi>
+               </item>
+               <item>
+                  <hi>Thomas Bevins,</hi>
+               </item>
+               <item>
+                  <hi>Henry Fitzpatrick,</hi>
+               </item>
+               <item>
+                  <hi>Edmund Lee,</hi>
+               </item>
+               <item>
+                  <hi>Thomas Horne,</hi>
+               </item>
+               <item>
+                  <hi>
+                     <hi>John Veal,</hi> alias <hi>Vienne</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Forſter Collingwood,</hi>
+               </item>
+               <item>
+                  <hi>Thomas Combs,</hi>
+               </item>
+               <item>
+                  <hi>William Boyce,</hi>
+               </item>
+               <item>
+                  <hi>Peter Cook,</hi>
+               </item>
+               <item>
+                  <hi>Chriſtopher Davis,</hi>
+               </item>
+               <item>
+                  <hi>Nicholas Wilſon,</hi>
+               </item>
+               <item>
+                  <hi>Cardel Goodman,</hi>
+               </item>
+               <item>
+                  <hi>Charles Edwards,</hi>
+               </item>
+               <item>Capt. <hi>William Stow,</hi>
+               </item>
+               <item>
+                  <hi>Thomas Trevor.</hi>
+               </item>
+               <item>
+                  <hi>James Enbanck,</hi>
+               </item>
+               <item>
+                  <hi>— Hungat,</hi>
+               </item>
+               <item>
+                  <hi>— Bernerdi,</hi>
+               </item>
+               <item>
+                  <hi>Robert Caſſels,</hi>
+               </item>
+               <item>Sir <hi>John Knight,</hi>
+               </item>
+               <item>
+                  <hi>Robert Meldrum,</hi>
+               </item>
+               <item>
+                  <hi>Robert Blackburn,</hi>
+               </item>
+               <item>
+                  <hi>James Chambers,</hi>
+               </item>
+               <item>
+                  <hi>Thomas Cappock,</hi>
+               </item>
+               <item>
+                  <hi>Owen Silver,</hi>
+               </item>
+               <item>
+                  <hi>William Symons,</hi>
+               </item>
+               <item>
+                  <hi>Adrian Moor,</hi> Enſign,</item>
+               <item>
+                  <hi>William Berkenhead,</hi>
+               </item>
+               <item>
+                  <hi>John Budgin,</hi>
+               </item>
+               <item>
+                  <hi>John Rolph,</hi>
+               </item>
+               <item>
+                  <hi>John Hare,</hi>
+               </item>
+               <item>
+                  <list>
+                     <item>
+                        <hi>Shadereck Cook,</hi>
+                     </item>
+                     <item>
+                        <hi>William Collins,</hi>
+                     </item>
+                  </list> Miniſters</item>
+               <item>Capt. <hi>Tho. Stubs,</hi>
+               </item>
+               <item>
+                  <hi>Guſtav. Creed,</hi>
+               </item>
+               <item>
+                  <hi>Thomas Perkins,</hi>
+               </item>
+               <item>
+                  <hi>Barnet Davis,</hi> alias <hi>Dawſon.</hi>
+               </item>
+               <item>
+                  <hi>Iſaac Bullock,</hi>
+               </item>
+               <item>Mr. <hi>Donolan,</hi>
+               </item>
+               <item>Mr. <hi>Branfield,</hi>
+               </item>
+               <item>Mr. <hi>Webber,</hi>
+               </item>
+               <item>
+                  <hi>Peter Cook</hi> and Capt. <hi>Knightly,</hi> under Sentence of Death. — 60</item>
+            </list>
+            <list>
+               <head>Executed.</head>
+               <item>
+                  <hi>Robert Charnock,</hi>
+               </item>
+               <item>Edward King,</item>
+               <item>
+                  <hi>Tho. Keyes,</hi>
+               </item>
+               <item>Sir <hi>Will. Perkins,</hi>
+               </item>
+               <item>Sir <hi>John Friend,</hi> Proteſt.</item>
+               <item>
+                  <hi>Ambroſe Rookwood,</hi>
+               </item>
+               <item>Major <hi>Lowick,</hi>
+               </item>
+               <item>
+                  <hi>Charles Cranburne.</hi> — 8</item>
+            </list>
+            <list>
+               <head>In the Gate-houſe.</head>
+               <item>DR. <hi>Monroe,</hi>
+               </item>
+               <item>Dr. <hi>Mackindaſh,</hi>
+               </item>
+               <item>Capt. <hi>Loutham,</hi>
+               </item>
+               <item>Mr. <hi>Lewis,</hi>
+               </item>
+               <item>Capt. <hi>Binns,</hi>
+               </item>
+               <item>Capt. <hi>Bullingham,</hi>
+               </item>
+               <item>Mr. <hi>Poncy,</hi>
+               </item>
+               <item>Colonel <hi>John Hales,</hi>
+               </item>
+               <item>Eſquire <hi>Elliot,</hi>
+               </item>
+               <item>Eſquire <hi>Biggs,</hi>
+               </item>
+               <item>Mr. <hi>Graham,</hi>
+               </item>
+               <item>Eſquire <hi>Scroop;</hi>
+               </item>
+               <item>Capt. <hi>Adams,</hi>
+               </item>
+               <item>Mr. <hi>Wray,</hi>
+               </item>
+               <item>Capt. <hi>Bryan,</hi>
+               </item>
+               <item>Mr. <hi>Plunket,</hi>
+               </item>
+               <item>Capt. <hi>Blair,</hi>
+               </item>
+               <item>Capt. <hi>Evans,</hi>
+               </item>
+               <item>Mr. <hi>Mayor,</hi>
+               </item>
+               <item>Mr. <hi>Cud<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ow,</hi>
+               </item>
+               <item>
+                  <hi>Da. Paire,</hi>
+               </item>
+               <item>Mr. <hi>Bi<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>kenhead,</hi>
+               </item>
+               <item>Mr. <hi>Dale Cloſe,</hi>
+               </item>
+               <item>Mr. <hi>Bateman,</hi>
+               </item>
+               <item>
+                  <hi>John Redmayn,</hi>
+               </item>
+               <item>Capt. <hi>Will. Courtney,</hi>
+               </item>
+               <item>Enſign <hi>Tooley,</hi>
+               </item>
+               <item>Capt. <hi>James Courtney,</hi>
+               </item>
+               <item>
+                  <hi>Paul Robinſon,</hi>
+               </item>
+               <item>Mr. <hi>Memoranſ<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>y,</hi> a Spy.</item>
+               <item>Capt. <hi>Ridly,</hi>
+               </item>
+               <item>Mr. <hi>Matthews,</hi> a Prieſt.</item>
+               <item>Anchor Mr. <hi>Matthews,</hi> a ſuſ<g ref="char:EOLhyphen"/>pected Prieſt.</item>
+               <item>Mr. <hi>Ramſey,</hi>
+               </item>
+               <item>Mr. <hi>Rutter,</hi>
+               </item>
+               <item>Mr. <hi>Fleetwood,</hi>
+               </item>
+               <item>Mr. <hi>Purefoy,</hi>
+               </item>
+               <item>Mr. <hi>Cornwallis,</hi>
+               </item>
+               <item>Capt. <hi>Rycaut,</hi>
+               </item>
+               <item>Mr. <hi>Trapps,</hi>
+               </item>
+               <item>Mr. <hi>Serjeant,</hi>
+               </item>
+               <item>Mr. <hi>Hibbord,</hi>
+               </item>
+               <item>Mr. <hi>Pettit,</hi>
+               </item>
+               <item>Mr. <hi>Gerny,</hi>
+               </item>
+               <item>Mr. <hi>Stutely,</hi>
+               </item>
+               <item>Mr. <hi>Gerrard,</hi>
+               </item>
+               <item>Mr. <hi>Plowden,</hi>
+               </item>
+               <item>Mr. <hi>Wilcooks,</hi> a Miniſter.</item>
+               <item>Mr. <hi>Henry Courtney,</hi> — 49</item>
+            </list>
+            <list>
+               <head>In the Fleet.</head>
+               <item>COl. <hi>Tufton,</hi>
+               </item>
+               <item>Mr. <hi>Conſtable,</hi>
+               </item>
+               <item>Sir <hi>Richard White,</hi>
+               </item>
+               <item>Sir <hi>Richard Hart,</hi>
+               </item>
+               <item>Col. <hi>Graham,</hi> Privy Purſe to the Late King <hi>James.</hi>
+               </item>
+               <item>Col. <hi>Dungan,</hi>
+               </item>
+               <item>Capt. <hi>Rider,</hi>
+               </item>
+               <item>Capt. <hi>Richardſon,</hi>
+               </item>
+               <item>Capt. <hi>Murray,</hi>
+               </item>
+               <item>Mr. <hi>Baron</hi> a Miniſter.</item>
+               <item>Mr. <hi>Mitton,</hi>
+               </item>
+               <item>Sir <hi>James Simmons,</hi>
+               </item>
+               <item>
+                  <hi>Robert Howard,</hi> 
+                  <abbr>Eſq</abbr>
+               </item>
+               <item>Mr. <hi>Charles Fairfax,</hi>
+               </item>
+               <item>Mr. <hi>Brandon,</hi>
+               </item>
+               <item>Mr. <hi>Roper,</hi>
+               </item>
+               <item>Mr. <hi>Manack,</hi>
+               </item>
+               <item>Mr. <hi>Anſell,</hi>
+               </item>
+               <item>Mr. <hi>Bane.</hi> — 19</item>
+            </list>
+            <list>
+               <head>In the Kings-Bench.</head>
+               <item>
+                  <hi>BEnedict Hall,</hi> 
+                  <abbr>Eſq</abbr>
+               </item>
+               <item>Dr. <hi>John Pattiſon,</hi> Late Arch-Biſhop of <hi>Glaſco.</hi>
+               </item>
+               <item>
+                  <hi>John Wyche,</hi> 
+                  <abbr>Eſq</abbr>
+               </item>
+               <item>
+                  <hi>William Purefoy,</hi> 
+                  <abbr>Eſq</abbr>
+               </item>
+               <item>Councellor <hi>Thornbery,</hi>
+               </item>
+               <item>
+                  <hi>Thomas Braightwait,</hi>
+               </item>
+               <item>Capt. <hi>Symonds,</hi> by Order of Council remov'd from <hi>New<g ref="char:EOLhyphen"/>gate</hi> to the <hi>Kings-Bench.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Edwards,</hi> — 8</item>
+            </list>
+            <list>
+               <head>In the Marſhalſea.</head>
+               <item>SIr <hi>Roger L'Eſtrange,</hi>
+               </item>
+               <item>Major <hi>Holmes,</hi>
+               </item>
+               <item>Capt. <hi>Bark.</hi>— 3</item>
+            </list>
+            <list>
+               <head>Confined to their own Houſes.</head>
+               <item>THe Earls of <hi>Litchfield</hi> and <hi>Peterborough.</hi> — 2</item>
+            </list>
+            <list>
+               <head>In the Cuſtody of Meſſengers.</head>
+               <item>LOrd <hi>Gerrard</hi> of <hi>Bromley,</hi>
+               </item>
+               <item>Lord <hi>Fairfax,</hi>
+               </item>
+               <item>Sir <hi>Robert Throgmorton,</hi>
+               </item>
+               <item>Sir <hi>Richard Dutton,</hi>
+               </item>
+               <item>Sir <hi>Robert Terril,</hi>
+               </item>
+               <item>Dr. <hi>William Lloyd,</hi> late Biſhop of <hi>Norwich.</hi>
+               </item>
+               <item>Dr. <hi>Ken,</hi> late Biſhop of <hi>Bath</hi> and <hi>Wells.</hi>
+               </item>
+               <item>
+                  <hi>William Crosby</hi> 
+                  <abbr>Eſq</abbr>
+               </item>
+               <item>Mr. <hi>George Wesbruck,</hi>
+               </item>
+               <item>Mr. <hi>Johnſon.</hi>
+               </item>
+               <item>
+                  <hi>Charles Atherley,</hi> 
+                  <abbr>Eſq</abbr>
+               </item>
+               <item>Sir <hi>Charles Littleton,</hi>
+               </item>
+               <item>Mr. <hi>Luche,</hi>
+               </item>
+               <item>Mr. <hi>Peters,</hi>
+               </item>
+               <item>Mr. <hi>Rich, Ellis,</hi>
+               </item>
+               <item>Mr. <hi>Peter Evance,</hi>
+               </item>
+               <item>Mr. <hi>Bryan Denis,</hi>
+               </item>
+               <item>Mr. <hi>John Gourdon,</hi>
+               </item>
+               <item>Mr. <hi>Alex. Megnion,</hi>
+               </item>
+               <item>Mr. <hi>Ric<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>. Vicker,</hi>
+               </item>
+               <item>Mr. <hi>G<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o<gap reason="illegible: missing" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Meſſenger,</hi>
+               </item>
+               <item>Mr. <hi>Oſwell,</hi> Miniſters.</item>
+               <item>Mr. <hi>Spicks,</hi> Miniſters.</item>
+               <item>Mr. <hi>Bret,</hi>
+               </item>
+               <item>Mr. <hi>Gilbert Jones,</hi>
+               </item>
+               <item>Mr. <hi>Holeman,</hi>
+               </item>
+               <item>Capt. <hi>Nich. Brown,</hi>
+               </item>
+               <item>Mr. <hi>William Rutland,</hi>
+               </item>
+               <item>Capt. <hi>Goodwin,</hi>
+               </item>
+               <item>Mr. <hi>Bengon,</hi>
+               </item>
+               <item>Mr. <hi>Edw. Harris,</hi>
+               </item>
+               <item>Mr. <hi>Tho. Aldred,</hi>
+               </item>
+               <item>Mr. <hi>Rich. Row,</hi>
+               </item>
+               <item>Mr. <hi>Edward Hayes,</hi>
+               </item>
+               <item>Mr. <hi>Dan. Hopkins,</hi>
+               </item>
+               <item>Mr. <hi>David Middleton,</hi>
+               </item>
+               <item>Mr. <hi>John Hodge,</hi>
+               </item>
+               <item>Capt. <hi>Roberts,</hi>
+               </item>
+               <item>Mr. <hi>Droyton Roberts,</hi>
+               </item>
+               <item>Mr. <hi>Paul Peper,</hi>
+               </item>
+               <item>Mr. <hi>Tho. Marſh,</hi>
+               </item>
+               <item>Mr. <hi>Stephen Lancefield,</hi>
+               </item>
+               <item>Mr. <hi>Will. Manger,</hi>
+               </item>
+               <item>Mr. <hi>Geo. Hambleton,</hi>
+               </item>
+               <item>Mr. <hi>Rog. Maſtey,</hi>
+               </item>
+               <item>Mrs. <hi>Eliz. Clayton,</hi>
+               </item>
+               <item>Mr. <hi>Geo. Wood,</hi>
+               </item>
+               <item>Mr. <hi>Charles Nowel,</hi>
+               </item>
+               <item>Mr. <hi>Tho. Calloway,</hi>
+               </item>
+               <item>Mr. <hi>Henrick,</hi>
+               </item>
+               <item>Mr. <hi>James Jones,</hi>
+               </item>
+               <item>Mr. <hi>Fra. Demorin,</hi>
+               </item>
+               <item>Mr. <hi>John Barrow.</hi>
+               </item>
+               <item>Mr. <hi>Sam. Salsbury,</hi>
+               </item>
+               <item>Mr. <hi>Rob. Slingsby,</hi>
+               </item>
+               <item>Mr. <hi>Martin,</hi>
+               </item>
+               <item>Mr. <hi>Godfrey Croſs,</hi>
+               </item>
+               <item>Mr. <hi>Tho. Pharron.</hi>
+               </item>
+               <item>Mr. <hi>Law. Brabſton,</hi>
+               </item>
+               <item>Mr. <hi>Lewis Richards,</hi>
+               </item>
+               <item>Mr. <hi>James Brown,</hi>
+               </item>
+               <item>Mr. <hi>Richards,</hi>
+               </item>
+               <item>Mr. <hi>Rob. Surnam,</hi>
+               </item>
+               <item>Mr. <hi>Will. Plumer,</hi>
+               </item>
+               <item>Mr. <hi>Butler,</hi>
+               </item>
+               <item>Mr. <hi>Burk,</hi>
+               </item>
+               <item>Mr. <hi>Burrows,</hi>
+               </item>
+               <item>Mr. <hi>Gourdon.</hi>
+               </item>
+               <item>Mr. <hi>Jeff. Keiting,</hi>
+               </item>
+               <item>Mr. <hi>Tho. Keiting,</hi>
+               </item>
+               <item>Mr. <hi>Tho. Harris,</hi>
+               </item>
+               <item>Dr. <hi>Sambord,</hi>
+               </item>
+               <item>
+                  <hi>Mr. Dinerti,</hi>
+               </item>
+               <item>
+                  <hi>Mr. Yeomans,</hi>
+               </item>
+               <item>Capt. <hi>Ems,</hi>
+               </item>
+               <item>
+                  <hi>Mr. Dav. Burk,</hi>
+               </item>
+               <item>
+                  <hi>Mr. John Caranah,</hi>
+               </item>
+               <item>
+                  <hi>Mr. Phil. Fitz-Gerald,</hi>
+               </item>
+               <item>
+                  <hi>Mr. Edw. Fitz-Gerald,</hi>
+               </item>
+               <item>
+                  <hi>Mr. Nich. Lecover,</hi>
+               </item>
+               <item>
+                  <hi>Mr. George Macollock,</hi>
+               </item>
+               <item>
+                  <hi>Mr. John Corn,</hi>
+               </item>
+               <item>
+                  <hi>Mr. Weſt,</hi>
+               </item>
+               <item>
+                  <hi>Mr. Mac. Adams,</hi>
+               </item>
+               <item>
+                  <hi>Mr. Morrice Margrate,</hi>
+               </item>
+               <item>
+                  <hi>Mr. James Fig,</hi>
+               </item>
+               <item>
+                  <hi>Mr. Abraham Slingsby.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Edward Wats,</hi>
+               </item>
+               <item>
+                  <hi>Mr. Lewſey,</hi>
+               </item>
+               <item>
+                  <hi>Mr. Tho. Bucknell,</hi>
+               </item>
+               <item>
+                  <hi>Mr. Joſ. Roche,</hi>
+               </item>
+               <item>
+                  <hi>Mr. Doylens,</hi>
+               </item>
+               <item>
+                  <hi>Mr. Tho. Fox,</hi>
+               </item>
+               <item>
+                  <hi>Mr. Mark Preſton,</hi>
+               </item>
+               <item>
+                  <hi>Mr. Fitz-Gerald,</hi>
+               </item>
+               <item>
+                  <hi>Mr. John Johnſon,</hi>
+               </item>
+               <item>
+                  <hi>Mr. Jennings,</hi>
+               </item>
+               <item>
+                  <hi>Mr. William Holmes,</hi>
+               </item>
+               <item>
+                  <hi>Mr. Lewis Martin,</hi>
+               </item>
+               <item>
+                  <hi>Mr. Harwick,</hi>
+               </item>
+               <item>
+                  <hi>Mr. John Cantrel,</hi>
+               </item>
+               <item>
+                  <hi>Mr. John Tacker,</hi>
+               </item>
+               <item>
+                  <hi>Mr. Tho. Sandes,</hi>
+               </item>
+               <item>
+                  <hi>Mr. Hug. Harriſon,</hi>
+               </item>
+               <item>
+                  <hi>Mr. John Charlton,</hi>
+               </item>
+               <item>
+                  <hi>Mr. John Wood.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Will. White,</hi>
+               </item>
+               <item>
+                  <hi>Mr. Genefer,</hi>
+               </item>
+               <item>
+                  <hi>Mr. Bradſhaw,</hi>
+               </item>
+               <item>
+                  <hi>Mr. Turner,</hi>
+               </item>
+               <item>
+                  <hi>Mr. Brown,</hi>
+               </item>
+               <item>
+                  <hi>Mr. John Herman,</hi>
+               </item>
+               <item>
+                  <hi>Mr. John T<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ereld,</hi>
+               </item>
+               <item>
+                  <hi>Mr. Chapman,</hi>
+               </item>
+               <item>
+                  <hi>Mr. <g ref="char:V">Ʋ</g>ſ<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi>
+               </item>
+               <item>
+                  <hi>Mr. Will. Hanſley,</hi>
+               </item>
+               <item>
+                  <hi>Mr. Killy,</hi>
+               </item>
+               <item>
+                  <hi>Mr. Will. Hailes,</hi>
+               </item>
+               <item>
+                  <hi>Mr. Will. Obryan,</hi>
+               </item>
+               <item>
+                  <hi>Mr. B. Reading,</hi>
+               </item>
+               <item>
+                  <hi>Mr. John Coleman,</hi>
+               </item>
+               <item>Three <hi>Mr. Langhorns.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Charles Carrington,</hi>
+               </item>
+               <item>Coll. <hi>Cuſh,</hi>
+               </item>
+               <item>
+                  <hi>Mr. Matthews,</hi>
+               </item>
+               <item>
+                  <hi>Mr. Cox,</hi>
+               </item>
+               <item>
+                  <hi>Mr. Rigden,</hi>
+               </item>
+               <item>
+                  <hi>Mr. Goodchief,</hi>
+               </item>
+               <item>
+                  <hi>Mr. Clyneſworth,</hi>
+               </item>
+               <item>
+                  <hi>Mr. Rich. Rumheld,</hi>
+               </item>
+               <item>
+                  <hi>Mr. Grant,</hi>
+               </item>
+               <item>
+                  <hi>Mr. Baptiſt,</hi>
+               </item>
+               <item>
+                  <hi>Mr. Inwood,</hi>
+               </item>
+               <item>Dr. <hi>Gadding,</hi>
+               </item>
+               <item>
+                  <hi>Mr. Caſt,</hi>
+               </item>
+               <item>
+                  <hi>Mr. Brown,</hi>
+               </item>
+               <item>
+                  <hi>Mrs. Brown,</hi>
+               </item>
+               <item>Dr. <hi>Johnſon,</hi>
+               </item>
+               <item>
+                  <hi>Mr. Smithſon,</hi>
+               </item>
+               <item>
+                  <hi>Mr. Dowis,</hi>
+               </item>
+               <item>
+                  <hi>Mr. Baker,</hi>
+               </item>
+               <item>
+                  <hi>Mr. Hardwick,</hi>
+               </item>
+               <item>Dr. <hi>Smith,</hi>
+               </item>
+               <item>
+                  <hi>Mr. Maſſey,</hi>
+               </item>
+               <item>
+                  <hi>Mr. Singleton,</hi>
+               </item>
+               <item>
+                  <hi>Mr. Brown,</hi>
+               </item>
+               <item>
+                  <hi>Mr. West,</hi>
+               </item>
+               <item>
+                  <hi>Mr. Willieux,</hi>
+               </item>
+               <item>
+                  <hi>Mr. Knight,</hi>
+               </item>
+               <item>
+                  <hi>Mr. Cook,</hi>
+               </item>
+               <item>
+                  <hi>Mr. Barneſley,</hi>
+               </item>
+               <item>
+                  <hi>Mrs. Kelley,</hi>
+               </item>
+               <item>
+                  <hi>Mr. George Aldred,</hi>
+               </item>
+               <item>Father <hi>King,</hi>
+               </item>
+               <item>
+                  <hi>Mr. Harris,</hi>
+               </item>
+               <item>
+                  <hi>Mr. Pretyman,</hi>
+               </item>
+               <item>
+                  <hi>Mr. Stafford,</hi>
+               </item>
+               <item>
+                  <hi>Mr. Welding,</hi>
+               </item>
+               <item>
+                  <hi>Mr. Hawley,</hi>
+               </item>
+               <item>
+                  <hi>Mr. Tho. Taylor,</hi>
+               </item>
+               <item>
+                  <hi>Mr. Francis Cherry,</hi>
+               </item>
+               <item>
+                  <hi>Mr. Jarvis Hawton,</hi>
+               </item>
+               <item>
+                  <hi>Mr. Jonas Graves,</hi>
+               </item>
+               <item>
+                  <hi>Mr. Wilcox</hi> a Victualler,</item>
+               <item>
+                  <hi>Mr. Bramfield,</hi>
+               </item>
+               <item>Dr. <hi>Harborow,</hi>
+               </item>
+               <item>
+                  <hi>Mr. Harcourt.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Chancey.</hi> — 168</item>
+               <item>In All — 330</item>
+            </list>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed in the Year 1696.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
